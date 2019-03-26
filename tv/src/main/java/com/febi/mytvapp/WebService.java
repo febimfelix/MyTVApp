@@ -1,14 +1,8 @@
-package com.lula.lulaconsumer.webservice;
+package com.febi.mytvapp;
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.os.Build;
-
-import com.lula.lulaconsumer.R;
-import com.lula.lulaconsumer.core.AppContext;
-import com.lula.lulaconsumer.core.Constants;
-import com.lula.lulaconsumer.datastructures.WebResponse;
-import com.lula.lulaconsumer.utils.AppUtils;
 
 import org.json.JSONArray;
 import org.json.JSONException;
